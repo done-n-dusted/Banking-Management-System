@@ -3,11 +3,11 @@
 ## Author : Anurag Pendyala
 
 ### Files Description
-1. server.c 		-> code for server
-2. client.c 		-> code for client
-3. initialize.c 	-> code for creating one joint user and one normal user to get started with
-4. data/NU.data 	-> data about normal users
-5. data/JU.data	-> data about joint users
+1. `server.c` 		-> code for server
+2. `client.c`		-> code for client
+3. `initialize.c` 	-> code for creating one joint user and one normal user to get started with
+4. `data/NU.data` 	-> data about normal users
+5. `data/JU.data`	-> data about joint users
 
 ### Types of Users
 
@@ -32,7 +32,7 @@
 ### Properties for Administrator
 
 * There can be only one administrator.
-* Password: 1234567890
+* Password: `1234567890`
 	
 ### Running the code
 
