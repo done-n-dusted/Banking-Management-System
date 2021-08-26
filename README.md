@@ -18,7 +18,7 @@
 * Normal Users
 	- Have fields that are unique to one Normal user.
 * Joint Users
-	- Have fields that are unique to Joint user account. The main difference between Normal and Joint user account is that the Joint User account has an addition partner name included.
+	- Have fields that are unique to one Joint user account. The main difference between Normal and Joint user account is that the Joint User account has an additional partner name included.
 
 ### Properties of fields for accounts
 
